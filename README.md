@@ -48,4 +48,4 @@ If you have issues with the setup, please share the error messages on Mattermost
 
 To eventually delete the environment again type (after the workshop, of course):
 
-    ` conda env remove --name skience24 `
+    ` conda env remove --name skience25 `
