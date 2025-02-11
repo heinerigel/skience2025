@@ -11,7 +11,7 @@ https://www.skience.de/2025
 
 [Miniconda/Anaconda3](https://docs.conda.io/en/latest/miniconda.html) has to be installed for this to work!
 
-1) Download the [__skience25.yaml__](https://raw.githubusercontent.com/heinerigel/skience2024/main/skience24.yaml) file from this repository! This file specifies all required packages for the environment. Warning: make sure the content of the file is correct and not raw html!
+1) Download the [__skience25.yaml__](https://raw.githubusercontent.com/heinerigel/skience2025/main/skience25.yaml) file from this repository! This file specifies all required packages for the environment. Warning: make sure the content of the file is correct and not raw html!
 
 2) Using the Anaconda Prompt (or your favorite console if it works): use conda to create an environment: 
   
