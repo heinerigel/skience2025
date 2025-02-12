@@ -32,6 +32,10 @@ dependencies:
   - git
   - pygmt
   - ipympl
+  - h5py
+  - scikit-learn
+  - spectrum
   - pip:
     - git+https://github.com/ROBelgium/MSNoise.git
     - disba
+    - git+https://github.com/solldavid/TwistPy.git
