@@ -35,6 +35,7 @@ dependencies:
   - h5py
   - scikit-learn
   - spectrum
+  - scipy
   - pip:
     - git+https://github.com/ROBelgium/MSNoise.git
     - disba
