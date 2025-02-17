@@ -36,7 +36,9 @@ dependencies:
   - scikit-learn
   - spectrum
   - scipy
+  - h5py
   - pip:
     - git+https://github.com/ROBelgium/MSNoise.git
     - disba
     - git+https://github.com/solldavid/TwistPy.git
+    - xdas
