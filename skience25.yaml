@@ -37,7 +37,6 @@ dependencies:
   - spectrum
   - scipy
   - h5py
-  - pickle
   - seaborn
   - mplcursors
   - pip:
