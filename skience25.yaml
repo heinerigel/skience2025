@@ -37,6 +37,9 @@ dependencies:
   - spectrum
   - scipy
   - h5py
+  - pickle
+  - seaborn
+  - mplcursors
   - pip:
     - git+https://github.com/ROBelgium/MSNoise.git
     - disba
