@@ -57,6 +57,9 @@ These notebooks complement the main noise analysis techniques with more advanced
 - Van Noten et al. (2022) - Brussels' bedrock paleorelief analysis
 - Van Noten et al. (2020) - HVSR to Virtual Borehole
 - Gueguen et al. (2023) - Monitoring of the Hautbois Wooden High-Rise building in Grenoble
+- Lecocq et al. (2020) - COVID Noise
+- Lecocq et al. (2020) - SeismoRMS package
+- Lecocq et al. (2014) - MSNoise
 
 ## Authors
 
