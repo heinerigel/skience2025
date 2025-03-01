@@ -6,6 +6,11 @@ This is the github Project for the 2025 Skience Winter School. Training material
 
 https://www.skience.de/2025
 
+Data for the notebooks can be downloaded from here (24GB)
+
+https://syncandshare.lrz.de/getlink/fi6XxXnKpLZptktj2YtqyN/Skience2025
+
+
 
 ## Setup of Conda Environment for Skience24
 
